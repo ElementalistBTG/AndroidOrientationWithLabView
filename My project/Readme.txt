@@ -1,0 +1,2 @@
+The program can be run easily from the executable file.
+In order to have the saved files be saved to the correct directory you must have a directory with a path: "C:\Program Files\National Instruments\LabVIEW 2018\examples\My examples\My project\Saved Files"
